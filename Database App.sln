@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbReader", "DbReader\DbReader.csproj", "{A854A22B-6DC8-46C9-860A-C131F0512AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbReader.UI", "DbReader.UI\DbReader.UI.csproj", "{8AEE3CD2-7520-43BB-A140-F15FD8EEBB65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A854A22B-6DC8-46C9-860A-C131F0512AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A854A22B-6DC8-46C9-860A-C131F0512AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A854A22B-6DC8-46C9-860A-C131F0512AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A854A22B-6DC8-46C9-860A-C131F0512AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AEE3CD2-7520-43BB-A140-F15FD8EEBB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEE3CD2-7520-43BB-A140-F15FD8EEBB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEE3CD2-7520-43BB-A140-F15FD8EEBB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEE3CD2-7520-43BB-A140-F15FD8EEBB65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDA7DAE3-2F1A-4C30-B8E4-40902EFD5F82}
+	EndGlobalSection
+EndGlobal
